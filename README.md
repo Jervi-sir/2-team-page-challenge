@@ -42,20 +42,15 @@ ___
 ### phone's screen
 ![phone](screenshot/phone.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+### Story
+-Everything went well, it was quick to do that by grids and flexbox . All tho , the process started from designing for phone screen, and then large screens
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [html](https://www.w3schools.com/html/)
+- [css](https://www.w3schools.com/css/)
 
 ## Features
 
@@ -67,13 +62,11 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [html](https://www.w3schools.com/html/)
+- [css](https://www.w3schools.com/css/)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website notyet
+- GitHub [@Jervi-sir](https://{github.com/Jervi-sir})
+- Facebook [@Gacem_humen](https://{twitter.com/gacem_humen})
