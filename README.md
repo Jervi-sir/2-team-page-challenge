@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website notyet
 - GitHub [@Jervi-sir](https://{github.com/Jervi-sir})
-- Facebook [@Gacem_humen](https://{twitter.com/gacem_humen})
+- Facebook [@Gacem_humen](https://{facebook.com/gacem_humen})
