@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="#">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="#">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,30 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+.images {
+   display: flex;
+}
+
+.inner {
+   display: flex;
+   flex-direction: column;
+}
+.inner:nth-child(1) {
+   width: 70%;
+}
+.inner:nth-child(2) {
+   width: 30%;
+}
+<div class="images">
+   <div class="inner">
+      <p>Larger Screen</p>
+      <img src="https://raw.githubusercontent.com/Jervi-sir/team-page-challenge/main/screenshot/default.png">
+   </div>
+   <div class="inner">
+      <p>phone's screen</p>
+      <img src="https://raw.githubusercontent.com/Jervi-sir/team-page-challenge/main/screenshot/phone.png">
+   </div>
+</div>
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
